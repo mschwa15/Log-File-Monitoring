@@ -1,0 +1,1 @@
+Put every line of text into its own list so we can use built in Python functions to search for certain requirements each question is looking for. We plan on having four separate functions that we will call at the end. 
